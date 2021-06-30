@@ -147,8 +147,15 @@ setInterval(function() {
 <p>MENU TAMBAHAN<p>
 <a href="/my_ua" class="link-button">CHECK USER AGENT</a>
 <a href="/no.txt" class="link-button">NOMOR ADMIN</a>
-<br>
+<br><br><br>
+<a href="/menu_tambahan/tanggalv2.php" class="link-button">TANGGAL</a>
 <a href="/menu_tambahan/tanggal.php" class="link-button">TANGGAL DAN WAKTU</a>
+<br><br><br>
+<a href="#" class="link-button">Coming Soon</a>
+<a href="#" class="link-button">Coming Soon</a>
+<br><br><br>
+<a href="#" class="link-button">Coming Soon</a>
+<a href="#" class="link-button">Coming Soon</a>
 <br><br><br>
 <p>TOOLS UNTUK TERMUX</p>
 <a href="/ua.txt" class="link-button">USER AGENT FACEBOOK</a>
