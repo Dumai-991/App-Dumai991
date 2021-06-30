@@ -132,7 +132,6 @@ setInterval(function() {
 </g>
 </svg>
 <div class="message-box">
-echo date('d F Y');
 <h4>TOOLKIT DUMAI-991</h4>
 <div class="buttons-con">
 <div class="action-link-wrap">
@@ -148,6 +147,7 @@ echo date('d F Y');
 <p>MENU TAMBAHAN<p>
 <a href="/my_ua" class="link-button">CHECK USER AGENT</a>
 <a href="/no.txt" class="link-button">NOMOR ADMIN</a>
+<a href="/menu_tambahan/tanggal.php" class="link-button">NOMOR ADMIN</a>
 <br><br><br>
 <p>TOOLS UNTUK TERMUX</p>
 <a href="/ua.txt" class="link-button">USER AGENT FACEBOOK</a>
