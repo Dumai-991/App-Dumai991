@@ -132,7 +132,7 @@ setInterval(function() {
 </g>
 </svg>
 <div class="message-box">
-<h6>TOOLKIT DUMAI-991</h6>
+<h4>TOOLKIT DUMAI-991</h4>
 <div class="buttons-con">
 <div class="action-link-wrap">
 <a href="/ip" class="link-button">IP ADDRESS</a>
