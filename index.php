@@ -132,7 +132,7 @@ setInterval(function() {
 </g>
 </svg>
 <div class="message-box">
-<h4>TOOLKIT DUMAI-991</h4>
+<h6>TOOLKIT DUMAI-991</h6>
 <div class="buttons-con">
 <div class="action-link-wrap">
 <a href="/ip" class="link-button">IP ADDRESS</a>
@@ -144,20 +144,23 @@ setInterval(function() {
 <a href="/endec" class="link-button">ENDEC</a>
 <a href="https://www.facebook.com/llovexnxx" class="link-button">LAPORKAN</a>
 <br><br><br>
-<p>MENU TAMBAHAN<p>
+<h5>MENU TAMBAHAN<h5>
 <a href="/my_ua" class="link-button">CHECK USER AGENT</a>
 <a href="/no.txt" class="link-button">NOMOR ADMIN</a>
 <br><br><br>
 <a href="/menu_tambahan/tanggalv2.php" class="link-button">TANGGAL</a>
 <a href="/menu_tambahan/tanggal.php" class="link-button">TANGGAL DAN WAKTU</a>
 <br><br><br>
-<a href="#" class="link-button">Coming Soon</a>
-<a href="#" class="link-button">Coming Soon</a>
+<a href="/menu_tambahan/visitor.php" class="link-button">VISITOR NUMBER</a>
+<a href="/menu_tambahan/waktuv2.php" class="link-button">WAKTU</a>
 <br><br><br>
-<a href="#" class="link-button">Coming Soon</a>
-<a href="#" class="link-button">Coming Soon</a>
 <br><br><br>
-<p>TOOLS UNTUK TERMUX</p>
+<a href="#" class="link-button">COMMING SOON</a>
+<br><br><br>
+<a href="#" class="link-button">COMING SOON</a>
+<a href="#" class="link-button">COMING SOON</a>
+<br><br><br>
+<h5>TOOLS UNTUK TERMUX</h5>
 <a href="/ua.txt" class="link-button">USER AGENT FACEBOOK</a>
 <a href="https://github.com/Dumai-991" class="link-button">GITHUB</a>
 <br><br><br>
