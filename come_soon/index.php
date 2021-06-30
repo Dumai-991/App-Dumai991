@@ -1,9 +1,6 @@
 <html><head><title><?php echo "COME SOON";?></title></head>
 <body
-<?php 
-$image_url='https://i.ibb.co/ctfb4Ry/images.jpg';
-?>
+<a href="https://ibb.co/k0b3NzG"><img src="https://i.ibb.co/k0b3NzG/images.jpg" alt="images" border="0"></a>
 
-<img src="<?php echo $image_url;?>">
 
 <br><h1>GO TO BACK</h1>
