@@ -143,6 +143,9 @@ setInterval(function() {
 <br><br><br>
 <a href="/endec" class="link-button">ENDEC</a>
 <a href="https://www.facebook.com/llovexnxx" class="link-button">LAPORKAN</a>
+<br><br><br>
+<p>MENU TAMBAHAN<p>
+<a href="/my_ua" class="link-button">CHECK USER AGENT</a>
 <a href="/no.txt" class="link-button">NOMOR ADMIN</a>
 <br><br><br>
 <p>TOOLS UNTUK TERMUX</p>
