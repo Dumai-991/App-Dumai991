@@ -132,6 +132,7 @@ setInterval(function() {
 </g>
 </svg>
 <div class="message-box">
+echo date('d F Y');
 <h4>TOOLKIT DUMAI-991</h4>
 <div class="buttons-con">
 <div class="action-link-wrap">
