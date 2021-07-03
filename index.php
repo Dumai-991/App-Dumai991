@@ -155,10 +155,12 @@ setInterval(function() {
 <a href="/menu_tambahan/waktuv2.php" class="link-button">WAKTU</a>
 <br><br><br>
 <br><br><br>
-<a href="/come_soon" class="link-button">COMMING SOON</a>
+<a href="/menu_tambahan/enc_python.php" class="link-button">ENCRYPTION PYTHON</a>
+<a href="/come_soon" class="link-button">COMING SOON</a>
 <br><br><br>
 <a href="/come_soon" class="link-button">COMING SOON</a>
 <a href="/come_soon" class="link-button">COMING SOON</a>
+<br><a href="/come_soon" class="link-button">COMMING SOON</a>
 <br><br><br>
 <h5>TOOLS UNTUK TERMUX</h5>
 <a href="/ua.txt" class="link-button">USER AGENT FACEBOOK</a>
