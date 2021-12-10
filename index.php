@@ -156,7 +156,7 @@ setInterval(function() {
 <br><br><br>
 <br><br><br>
 <a href="/menu_tambahan/enc_python.php" class="link-button">ENCRYPTION PYTHON</a>
-<a href="/come_soon" class="link-button">COMING SOON</a>
+<a href="/facebook/idz.php" class="link-button">Username Facebook To Idz</a>
 <br><br><br>
 <a href="/come_soon" class="link-button">COMING SOON</a>
 <a href="/come_soon" class="link-button">COMING SOON</a>
